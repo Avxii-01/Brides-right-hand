@@ -1,0 +1,82 @@
+[
+  {
+    "file": "/workspace/scratch/d13d089b8566/brh-assets/hero.jpg",
+    "source": "https://unsplash.com/photos/elegant-outdoor-wedding-reception-with-draped-canopy-and-tables-Zi_NOBHIk9A",
+    "photographer": "Vidit Goswami",
+    "image_url": "https://images.unsplash.com/photo-1772127822525-7eda37383b9f",
+    "dimensions": [
+      2600,
+      1733
+    ],
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/d13d089b8566/brh-assets/couple.jpg",
+    "source": "https://unsplash.com/photos/HVdVwR2qkFs",
+    "photographer": "Hoi An Photographer",
+    "image_url": "https://images.unsplash.com/photo-1765871905165-e2d1932d4eca",
+    "dimensions": [
+      2400,
+      1600
+    ],
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/d13d089b8566/brh-assets/candles.jpg",
+    "source": "https://unsplash.com/photos/a-long-table-with-two-candles-on-it-pehG7MpOaUI",
+    "photographer": "Melody Zimmerman",
+    "image_url": "https://images.unsplash.com/photo-1702234564777-0c0e1be5c2e9",
+    "dimensions": [
+      2400,
+      3607
+    ],
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/d13d089b8566/brh-assets/tables.jpg",
+    "source": "https://unsplash.com/photos/outdoor-tables-set-for-a-formal-dining-event-t1ep0yUdXWw",
+    "photographer": "Bruno Ngarukiye",
+    "image_url": "https://images.unsplash.com/photo-1758810743389-8fba8732e6e9",
+    "dimensions": [
+      2400,
+      1600
+    ],
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/d13d089b8566/brh-assets/arch.jpg",
+    "source": "https://unsplash.com/photos/a-wedding-arch-with-flowers-and-greenery-on-it-0UFg3dkJVCU",
+    "photographer": "Khrystyna Shevtsiv",
+    "image_url": "https://images.unsplash.com/photo-1683795695196-d78780ceb235",
+    "dimensions": [
+      2400,
+      1600
+    ],
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "file": "/workspace/scratch/d13d089b8566/brh-assets/ceremony.jpg",
+    "source": "https://unsplash.com/photos/a-wedding-ceremony-setup-with-floral-arch-and-seating-42B2jNNChuI",
+    "photographer": "iKshana Productions",
+    "image_url": "https://images.unsplash.com/photo-1744805624890-9931ebb50428",
+    "dimensions": [
+      2600,
+      3900
+    ],
+    "license": "Unsplash License",
+    "license_url": "https://unsplash.com/license"
+  },
+  {
+    "output": "assets/reception.webp",
+    "derived_from": "assets/hero.webp",
+    "source": "https://unsplash.com/photos/elegant-outdoor-wedding-reception-with-draped-canopy-and-tables-Zi_NOBHIk9A",
+    "photographer": "Vidit Goswami",
+    "license": "Unsplash License",
+    "note": "Vertical crop derived from the existing hero source for the reception gallery card."
+  }
+]
